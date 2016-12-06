@@ -1,0 +1,28 @@
+Metadata-Version: 1.1
+Name: opensipkd-pbb
+Version: 0.0
+Summary: opensipkd-pbb
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: opensipkd-pbb README
+        
+        For create Ziggurat tables run:
+        
+          ~/env/bin/initialize_opensipkd-pbb_db development.ini 
+          
+        
+        
+        
+        0.0
+        ---
+        
+        - Initial version
+        
+Keywords: web pyramid pylons
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Framework :: Pylons
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Internet :: WWW/HTTP :: WSGI :: Application

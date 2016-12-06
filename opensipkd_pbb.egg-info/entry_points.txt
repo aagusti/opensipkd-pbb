@@ -1,0 +1,5 @@
+      [paste.app_factory]
+      main = opensipkdpbb:main
+      [console_scripts]
+      initialize_opensipkdpbb_db = opensipkdpbb.scripts.initializedb:main      
+      
